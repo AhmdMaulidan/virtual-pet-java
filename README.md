@@ -19,6 +19,8 @@ Diagram ini menjelaskan transisi dari berbagai kondisi berdasarkan aksi yang dil
 | **Ditolak**  | Ditolak       | Ditolak        | Ditolak             | Ditolak                |
 | **Diterima** | Diterima      | Diterima       | Diterima            | Diterima               |
 
+![image alt](https://github.com/AhmdMaulidan/virtual-pet-java/blob/0393f0b78dde27551bc07ef622e7dbb4119de156/state.png)
+
 ## 💡 Penjelasan
 
 - **Transisi**: Kondisi awal sebelum aksi dilakukan.
