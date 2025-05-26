@@ -1,1 +1,3 @@
-# virtual-pet-java
+# JAVA VIRTUAL PET🐼
+
+Dalam game ini, pemain akan memerankan sebagai seekor panda jantan yang ingin memiliki teman hidup, seorang panda betina yang bernama Lancy. Namun, untuk memenangkan hati Lancy, pemain harus melalui serangkaian tantangan yang menguji kesabaran, kecerdasan, dan kepekaan terhadap kebutuhan Lancy. Final state berada di saat menyatakan perasaan yang dimana pemain dituntut bisa mengerti suasana hati Lancy yang jika mood atau keadaan Lancy sedang baik maka ketika pemain menyatakan perasaan dia akan menerimanya, sebaliknya jika mood atau keadaan Lancy sedang tidak baik dia akan menolak.
