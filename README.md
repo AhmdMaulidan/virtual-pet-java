@@ -38,4 +38,6 @@ Diagram ini berguna untuk memodelkan perubahan kondisi emosional atau status ses
 
 ---
 
+program ini di buat untuk memenuhi tugas mata kuliah teori komputasi
+
 > Created with ❤️ for demonstrasi logika transisi kondisi.
