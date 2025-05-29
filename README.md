@@ -26,7 +26,7 @@ Diagram ini menjelaskan transisi dari berbagai kondisi berdasarkan aksi yang dil
 3.	Ajak Istirahat
 4.	Nyatakan Perasaan
 
-![image alt](https://github.com/AhmdMaulidan/virtual-pet-java/blob/0393f0b78dde27551bc07ef622e7dbb4119de156/state.png)
+![alt](https://github.com/AhmdMaulidan/virtual-pet-java/blob/0393f0b78dde27551bc07ef622e7dbb4119de156/state.png)
 
 ## 💡 Penjelasan
 
