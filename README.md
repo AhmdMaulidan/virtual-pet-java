@@ -36,7 +36,7 @@ Diagram ini menjelaskan transisi dari berbagai kondisi berdasarkan aksi yang dil
 
 Diagram ini berguna untuk memodelkan perubahan kondisi emosional atau status seseorang berdasarkan interaksi sosial yang diterima.
 
----
+----
 
 program ini di buat untuk memenuhi tugas mata kuliah teori komputasi
 
